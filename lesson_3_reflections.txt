@@ -1,3 +1,16 @@
 When would you want to use a remote repository rather than keeping all your work local?
 
   When you are using a public computer.
+
+Why might you want to always pull changes mannual rather than having Git automatically stay up-to-date with your remote repository?
+
+  Control reduces the chance of conflicts. If automatic updating takes places, then it's possible that the update may break what you are currently working on.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+  Fork is githubs terminology for clone. Typically it's a clone of someone else's repository. It is used if you want to clone a repo and use it for yourself. Git distinguishes it because you are not a contributor of the original repo.
+
+  Clone is a duplicate of a repo. Cloning can exist if you want to take copy an existing repo.
+
+  Branching occurs when you may still want to return to the original branch in the future. Branching occurs when someone starts to work on the original but wants to make changes to it. This allows control and iteration as changes occur.
+
