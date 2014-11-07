@@ -22,4 +22,6 @@ How would you collaborate without using Git or GitHub? What would be easier, and
 
   Using git makes it easier to collaborate because you can see each pull request and identify what has changed. Github also allows you to comment and make additional commits before the request is merged into the master branch.
 
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
 
+  When you are unsure of the changes you are going to make. One will decide to create a new branch so they can experiment. GitHub is social, so when requesting a pull reuquest, you expose it for other people to opine on.
