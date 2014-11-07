@@ -14,3 +14,12 @@ Describe the differences between forks, clones, and branches. When would you use
 
   Branching occurs when you may still want to return to the original branch in the future. Branching occurs when someone starts to work on the original but wants to make changes to it. This allows control and iteration as changes occur.
 
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+  Helps you trace back where the branches start to diverge.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+  Using git makes it easier to collaborate because you can see each pull request and identify what has changed. Github also allows you to comment and make additional commits before the request is merged into the master branch.
+
+
